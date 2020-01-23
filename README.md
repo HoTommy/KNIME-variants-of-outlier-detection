@@ -1,0 +1,1 @@
+# KNIME-variants-of-outlier-detection
